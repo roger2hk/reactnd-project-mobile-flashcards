@@ -76,7 +76,7 @@ class Quiz extends Component {
               {numOfCorrectAnswers} out of {totalQuestions} are correct.
             </Text>
 
-            <Text>Current Question #{currentQuestion + 1}</Text>
+            <Text>{totalQuestions - currentQuestion} questions left</Text>
 
             <Text>{card.question}</Text>
 
