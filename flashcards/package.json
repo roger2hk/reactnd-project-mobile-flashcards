@@ -14,7 +14,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-gesture-handler": "~1.10.3",
     "react-native-reanimated": "~2.1.0",
-    "react-native-web": "~0.16.2",
+    "react-native-web": "~0.16.3",
     "react-navigation": "^4.4.4",
     "react-navigation-stack": "^2.10.4",
     "react-navigation-tabs": "^2.11.1",
