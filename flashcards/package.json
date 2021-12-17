@@ -23,7 +23,7 @@
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "~8.4.1"
+    "babel-preset-expo": "~9.0.2"
   },
   "private": true
 }
